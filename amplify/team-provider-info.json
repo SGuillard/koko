@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-koko-dev-194528-authRole",
+      "UnauthRoleArn": "arn:aws:iam::222097125714:role/amplify-koko-dev-194528-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::222097125714:role/amplify-koko-dev-194528-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-koko-dev-194528-deployment",
+      "UnauthRoleName": "amplify-koko-dev-194528-unauthRole",
+      "StackName": "amplify-koko-dev-194528",
+      "StackId": "arn:aws:cloudformation:eu-west-2:222097125714:stack/amplify-koko-dev-194528/7b6241e0-320e-11eb-be8b-0296bc619646",
+      "AmplifyAppId": "d25k6yt9gh4a3m"
+    }
+  }
+}
