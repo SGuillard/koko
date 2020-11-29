@@ -5,5 +5,13 @@
       "type": "cicd",
       "lastPushTimeStamp": "2020-11-29T06:58:54.857Z"
     }
+  },
+  "auth": {
+    "kokoecc5bd30": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
   }
 }
